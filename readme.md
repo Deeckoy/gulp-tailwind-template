@@ -1,12 +1,10 @@
 # gulp-tailwind-template
 ## Technologies
----
 - HTML (PUG)
 - CSS (SCSS)
 - TailwindCSS v3.0
 
 ## Directory structure
----
 ### build
 ```
 build/
